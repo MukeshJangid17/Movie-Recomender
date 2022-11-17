@@ -4,12 +4,12 @@ dataset name tmdv 5000 movie dataset
 
 libraries -
   pandas 
-  numpy
-  matplolib
-  seaborn
-  streamlit
-  requests
-  pickle
+  ,numpy
+  ,matplolib
+  ,seaborn
+  ,streamlit
+  ,requests
+  ,pickle
 
 Programming lang-
   python
